@@ -35,3 +35,4 @@
 # week14-1 函式的宣告declare 定義define 及使用/呼叫call,參數的部分, int sum(int a, int b); int a,int b。在使用前,要先宣告或定義。
 # week14-2 變數的範圍(variable scope),房間裡的變數(local variable),只能在房間裡看到。外面的變數(global variable)可以被大家看到。
 # week14-3 房間裡的變數(local) 只能在房間裡看到。在funcA()裡有int a=10; 在funcB()裡有int a=30;在外面global變數有int a=20;大家有自己看得到的範圍。
+# week14-4 ,先用 51,68練習,使用for迴圈暴力法,看能不能整除、約分。再用while迴圈,老大a、b、生出c, c是0時, b是答案。最後用函式呼叫函式int gcd(int a, int b)
