@@ -45,4 +45,4 @@
 # week16-1 #include其實是檔案,裡面有函式的宣告,我們才能使用函式。int a整數變數是比較大的盒子,字元變數是比較小的盒子。變數的4個性質最後一&也就是變數的盒子放哪裡。了解scanf()怎麼把數字放在某個位置的盒子,複習%d及%c的差別
 # week16-2 了解字串的函式,strlen() strcpy() strcat() strcmp()。使用scanf()配合 %s可讀入字串,使用strlen()得到長度,strcpy()可以複製。
 # week16-3 了解address位址&,利用C Tutor Python接著照課本介紹的指標pointer 的寫法,準備4個指標,分別指到int a;float f;char c;char line[10],觀察看看指標的箭頭
-#
+# week16-4 複習之前的題目為了讓大家實習上機考試順利, 把隔壁班上機考的題目逐題講解錄影
