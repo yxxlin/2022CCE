@@ -42,3 +42,7 @@
 # week15-4 char字母是1byte,int整數是4byte,了解字串是什麼。宣告一個字串(字母陣列)利用for迴圈配合陣列,把每個字母印出來。
 # week15-5 利用scanf()配合%s讀入字串,在printf()配合%s會印出字串。利用for迴圈,寫出特別、專屬字串的迴圈, 數一數有幾個字母。
 # week15-6 是要把字串反過來印。用字串的迴圈,找出長度 N,再利用反過來的迴圈完成。過程中,複習字串的 scanf()及printf()還有%s及%c的差別。
+# week16-1 #include其實是檔案,裡面有函式的宣告,我們才能使用函式。int a整數變數是比較大的盒子,字元變數是比較小的盒子。變數的4個性質最後一&也就是變數的盒子放哪裡。了解scanf()怎麼把數字放在某個位置的盒子,複習%d及%c的差別
+# week16-2 了解字串的函式,strlen() strcpy() strcat() strcmp()。使用scanf()配合 %s可讀入字串,使用strlen()得到長度,strcpy()可以複製。
+# week16-3 了解address位址&,利用C Tutor Python接著照課本介紹的指標pointer 的寫法,準備4個指標,分別指到int a;float f;char c;char line[10],觀察看看指標的箭頭
+#
