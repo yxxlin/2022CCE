@@ -46,3 +46,9 @@
 # week16-2 了解字串的函式,strlen() strcpy() strcat() strcmp()。使用scanf()配合 %s可讀入字串,使用strlen()得到長度,strcpy()可以複製。
 # week16-3 了解address位址&,利用C Tutor Python接著照課本介紹的指標pointer 的寫法,準備4個指標,分別指到int a;float f;char c;char line[10],觀察看看指標的箭頭
 # week16-4 複習之前的題目為了讓大家實習上機考試順利, 把隔壁班上機考的題目逐題講解錄影
+# week17-1 background_size_rect_line 用了4個函式來畫圖
+# week17-2 setup_draw 可以利用 void setup() 設定, void draw() 每秒畫60次, 做出可互動的程式
+# week17-3 painter_mousePressed_keyPressed_stroke 可以利用 mouse 及 key 進行互動, 配合 stroke()換色
+# week17-4 PImage_loadImage_image 可以宣告圖片的變數, 讀入圖片、畫出image。要小心, 圖檔要事先拉到程式碼中
+# week17-5 oundFile_loop 要先把 Processing 的 Sketch-Library-Manage Libraries 裡, 找到 sound 的 library, Install 好後, 便可以有相關的範例
+# week17-6 random 最後一個程式, 要亂數抽籤 (週五老師會做個教學,示範怎麼轉成 HTML/JavaScript 放到網頁)
